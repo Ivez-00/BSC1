@@ -1,3 +1,7 @@
+
+![BSC_K-ON](https://user-images.githubusercontent.com/109906102/224514281-98da5d14-04cc-40b0-a679-040867f68832.png)
+
+
 # BSC
 
 a fine tuner for magisk audio mods from :
