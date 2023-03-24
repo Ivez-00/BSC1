@@ -124,6 +124,8 @@ a fine tuner for magisk audio mods from :
 
 * Headphones virtualizer mode added
 
+* Increased Bass Gain in BB-CL 
+
 * Note : auditorium protection and headphones virtualizer mode
   Only available for MiSound, Dolby Moto G52 and Dolby One plus 8
 
