@@ -105,3 +105,30 @@ a fine tuner for magisk audio mods from :
 * Reverberation Suppression: Suppresses reverberation effects: only for Moto G52 and MiSound
 
 * REVERB-SUPP=
+
+# BSC Version 5
+
+* Readjusted Values for newest version of Rei's Audio mods 
+
+* Volume leveler is enabled by default in Dynamic/Automatic Profiles
+
+* Calibration boost added
+
+* Surround boost added
+
+* Regulator overdrive added
+
+* Stereo steering added
+
+* auditorium protection added
+
+* Headphones virtualizer mode added
+
+* Note : auditorium protection and headphones virtualizer mode
+  Only available for MiSound, Dolby Moto G52 and Dolby One plus 8
+
+* added support for Dolby Moto G6 
+
+
+
+
