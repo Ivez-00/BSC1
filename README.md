@@ -148,7 +148,7 @@ a fine tuner for magisk audio mods from :
 * this version can be used in both Old and New
   versions of Audio mods from Rei
 
-* Huge thanks for t.me/ShadoV90 for helping me discovering it
+* Huge thanks for https://t.me/ShadoV90 for helping me discovering it
 
 
 
