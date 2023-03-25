@@ -145,6 +145,8 @@ a fine tuner for magisk audio mods from :
 * users needs to disable the SURROUND parameter else MONO
   will not work
 
+* MONO parameter only require Y/N options
+
 * this version can be used in both Old and New
   versions of Audio mods from Rei
 
