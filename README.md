@@ -132,5 +132,23 @@ a fine tuner for magisk audio mods from :
 * added support for Dolby Moto G6 
 
 
+# BSC DIY V2
+
+* added support for audio mods:
+
+* Dolby ZTE2019
+* Dolby Razer 2
+* Dolby Moto G Pro
+* MiSound 
+
+* added new parameter MONO:
+* users needs to disable the SURROUND parameter else MONO
+  will not work
+
+* this version can be used in both Old and New
+  versions of Audio mods from Rei
+
+* Huge thanks for t.me/ShadoV90 for helping me discovering it
+
 
 
