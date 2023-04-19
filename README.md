@@ -153,4 +153,15 @@ a fine tuner for magisk audio mods from :
 * Huge thanks for https://t.me/ShadoV90 for helping me discovering it
 
 
+# BSC VERSION 6
+
+* fix the bouncing audio issue
+
+* Refined band optimizer : increased multi channel sharpness (LFE almost audible)
+
+* Refined complex EQ : same as band opt but focuses only in left/right channels
+
+* did not add complex EQ in Dolby OP8 and Dolby Razer 2 as it's quite "Complex"
+
+* this version can be flashed on both newer and older audio mods
 
