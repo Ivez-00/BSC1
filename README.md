@@ -157,7 +157,7 @@ a fine tuner for magisk audio mods from :
 
 * fix the bouncing audio issue
 
-* Refined band optimizer : increased multi channel sharpness (LFE almost audible)
+* Refined band optimizer : increased multi channel sharpness (sharpened LFE)
 
 * Refined complex EQ : same as band opt but focuses only in left/right channels
 
