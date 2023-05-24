@@ -1,4 +1,3 @@
-
 ![BSC_K-ON](https://user-images.githubusercontent.com/109906102/224514281-98da5d14-04cc-40b0-a679-040867f68832.png)
 
 
@@ -164,4 +163,27 @@ a fine tuner for magisk audio mods from :
 * did not add complex EQ in Dolby OP8 and Dolby Razer 2 as it's quite "Complex"
 
 * this version can be flashed on both newer and older audio mods
+
+# BSCDIY VERSION 3
+
+* added new parameter :
+
+* Band-optimizer "BAND-OPT"
+
+* adds an additional sharpness to audio output
+
+* Options : Y/N/L/M/HH
+
+
+* added function to abort installation if device is not 64 bit
+
+* added support for Dolby Moto G6
+* edit : temporarily removed Moto G6 from supported audio mods
+
+* Note : if you already flashed the previous version
+of this (BSC DIY V2) you need to delete the
+existing BSC.conf in your internal storage,
+flash the module and it will create a new one 
+with new parameter(s)
+
 
