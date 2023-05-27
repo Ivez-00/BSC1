@@ -186,4 +186,18 @@ existing BSC.conf in your internal storage,
 flash the module and it will create a new one 
 with new parameter(s)
 
+# BSC VERSION 7 
+
+* added function to abort installation if your device is not 64bit
+
+* removed all Dynamic steering to all profiles (except on Dynamic/Auto), makes audio playback consistent 100%
+
+* removed complex EQ, it shares the same effects as band optimizer
+
+* adjusted band optimizer value, this is the one causes the gargling/metallic sound
+
+* added support for stock/in-built Dolby Atmos
+
+* New config : Pure Surround : for wider sound stage 
+
 
