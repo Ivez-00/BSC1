@@ -1,6 +1,6 @@
 ![BSC_K-ON](https://user-images.githubusercontent.com/109906102/224514281-98da5d14-04cc-40b0-a679-040867f68832.png)
 
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/Ivez-00/BSC1/latest/total)
+
 
 # BSC
 
