@@ -200,4 +200,31 @@ with new parameter(s)
 
 * New config : Pure Surround : for wider sound stage 
 
+# BSC VERSION 8
+
+
+
+* fix the conflicting script, users can freely flash the module
+ to update/change modes/variants without deleting/uninstalling
+ the module.
+ 
+* UI themes :
+  Monet for Dolby Zte and Dolby Razer 2
+  K-ON for Dolby magic revision
+  
+* Slightly reduced Volume gain in all configs (in-built)
+
+* slightly reduced Clarity in all configs, to prevent harsh treble that can cause a thin sound.
+
+* Increased Surround Boost in Pure Surround Conf
+
+* hearing protection is now set to trigger Dynamically,
+  for efficient ear comfort.
+  
+* Note (again): hearing protection feature is only for
+  Dolby Moto G52, MiSound and Dolby OnePlus 8.
+
+* when installing the UI themes, you might encounter a
+   failure error, you can just ignore the message and reboot
+   your device, the Themes will be applied nonetheless.
 
