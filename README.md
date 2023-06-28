@@ -228,3 +228,20 @@ with new parameter(s)
    failure error, you can just ignore the message and reboot
    your device, the Themes will be applied nonetheless.
 
+# BSC VERSION 9
+
+* switched script execution to post-fs mode :
+  this will fix the early mount issues for KSU users
+  
+* added and fine tuned:
+  bass hyb gains and bass harm gains in
+  Booming Bass and Focused Bass config
+  
+* added back some Dynamic steerings in Pure Surround config
+  1 Binaural Steering
+  2 Virtualizer Steering
+  3 Volume Steering
+  this will help the Surround virtualization more spatial
+  
+* Fix Magisk MiSound Detection
+
